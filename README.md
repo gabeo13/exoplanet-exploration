@@ -13,6 +13,8 @@ To help process this data, create machine learning models capable of classifying
 
 >* Python
 >* [SciKit Learn](https://scikit-learn.org/stable/)
+>* [Keras](https://keras.io/)
+>* [TensorFlow](https://www.tensorflow.org/)
 
 ---
 ## ML Model Selection & Analysis
